@@ -1,0 +1,124 @@
+.topcontainer {
+  background-color: #041C32;
+  color: #C7F0DB;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+  height: 840px;
+  padding-bottom: 0;
+}
+
+.skill-row{
+  width :50%;
+  margin: 75px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+.middlecontainer {
+  background-color: #112031;
+  margin 100px 0 100px 0;
+}
+
+.bottomcontainer {
+  background-color: #041c32;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+  color:#F9F3EE;
+
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  line-height: 2;
+}
+
+h2 {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #C7F0DB;
+  padding-bottom: 30px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  color: #C7F0DB;
+}
+
+p {
+  margin: 0;
+  line-height: 2;
+}
+a{
+  color: #C7F0DB;
+}
+.topcloud {
+  position: absolute;
+  left: 100px;
+  top: 25px;
+  width: 400px;
+
+}
+
+.bottomcloud {
+  position: absolute;
+  right: 100px;
+  bottom: 400px;
+  width: 400px;
+}
+
+
+.mountain {
+  position: relative;
+  top: 180px;
+  width: 1500px;
+  bottom: 0;
+}
+.codegif{
+  margin-right: 20px;
+  width:30%;
+  display: inline;
+  float: left;
+}
+.animeimage{
+  margin-left: 20px;
+  margin-top:40px;
+  width:30%;
+  float:right;
+  height: 300px;
+}
+.myimage{
+  top: 100px;
+  padding: 40px;
+  width: 300px;
+
+}
+
+.copywright{
+  color:white;
+}
+.btn{
+  border-radius: 8;
+
+}
+hr{
+  border-style: dotted none none;
+  border-width: 6px;
+  border-color: #576F72;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+.intro{
+  width :30%;
+  margin: auto;
+}
